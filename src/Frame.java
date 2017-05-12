@@ -12,7 +12,7 @@ public class Frame {
 		return firstThrow;
 	}
 
-	public int getSecondThrow() {
+	public int  getSecondThrow() {
 		return secondThrow;
 	}
 

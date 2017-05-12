@@ -36,7 +36,7 @@ public class BowlingGame {
 	// Returns the game score
 	public int score(){
 		
-		for(int i=0;i<frames.size();i++)
+		for (int i=0;i<frames.size();i++)
 		{
 			if(frames.get(i).isStrike())
 			{

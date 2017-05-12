@@ -12,7 +12,7 @@ public class TestBowling {
 	@Test
 	public void testStrike() throws BowlingException
 	{
-		BowlingGame bwlGame = new BowlingGame();
+		BowlingGame  bwlGame = new BowlingGame();
 		
 		Frame fr = new Frame(10,0);
 		bwlGame.addFrame(fr);
